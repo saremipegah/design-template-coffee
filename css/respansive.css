@@ -1,0 +1,21 @@
+@media screen and(max-width:1400){
+    .container{
+        width: 90%;
+    }
+    header nav ul li{
+       margin-left: 5px;
+    }
+    header nav .logo{
+        width: 36%;
+    }
+} 
+@media screen and(max-width:992){
+    header nav .logo{
+        width:26%;
+    }
+
+
+
+    
+}
+    
